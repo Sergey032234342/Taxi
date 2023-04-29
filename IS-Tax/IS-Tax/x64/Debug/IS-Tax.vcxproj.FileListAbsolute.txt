@@ -1,0 +1,11 @@
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\IS-Tax.vcxproj.AssemblyReference.cache
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\IS-Tax.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\ISTax.MainForm1.resources
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\IS-Tax.vcxproj.GenerateResource.cache
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\ISTax.MyForm.resources
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\ISTax.MyForm1.resources
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\ISTax.MyForm2.resources
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\ISTax.MyForm3.resources
+C:\Users\blagi\source\repos\IS-Tax\x64\Debug\IS-Tax.exe.config
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\IS-Tax.exe.config
+C:\Users\blagi\source\repos\IS-Tax\IS-Tax\x64\Debug\IS-Tax.vcxproj.CopyComplete
